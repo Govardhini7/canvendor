@@ -10,9 +10,6 @@ render() {
         <button onClick={this.clicked}>CLick me from class</button>
         </>
     )
-   
-
-
 }
 }
 
